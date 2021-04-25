@@ -8,7 +8,7 @@
   
 <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm an ambitious computer science and engineering student who is passionate about software engineering or DevOps related and  always looking for a new challenging project to work on.
+### I'm an ambitious computer science and engineering student who is passionate about software engineering , Cloud , DevOps related and  always looking for a new challenging project to work on.
 <br/>
 <hr/>
 <h1> Languages and Tools 🛠 <h1>
