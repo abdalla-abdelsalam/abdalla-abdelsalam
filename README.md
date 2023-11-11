@@ -8,7 +8,10 @@
   
 <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm an ambitious computer science and engineering graduate who is passionate about software engineering , Cloud , automation , DevOps related and  always looking for a new challenging project to work on.
+### Results-driven DevOps engineer with expertise in automating and optimizing software development pipelines.
+Proficient in cloud infrastructure management, containerization, Linux systems and CI/CD pipelines. Skilled in
+multiple programming languages (e.g., Python, Java). Committed to delivering innovative, high-quality solutions
+while bridging the gap between development and operations.
 <br/>
 <hr/>
 <h1> Languages and Tools 🛠 <h1>
