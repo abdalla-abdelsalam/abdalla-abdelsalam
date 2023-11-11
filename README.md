@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm Abdalla Abdelsalam 👋</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/abdallah-mahdyyy/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/abdalla-abdelsalam/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/Abdallah_Mahdyy"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   </p>
   
